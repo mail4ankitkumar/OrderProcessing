@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessLibrary", "PaymentProcessLibrary\PaymentProcessLibrary.csproj", "{52BFCFF6-04A0-487E-8565-AA8F73E3D470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderRuleEngineTest", "OrderRuleEngineTest\OrderRuleEngineTest.csproj", "{363F080E-8964-431C-A12E-341D1EA26FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52BFCFF6-04A0-487E-8565-AA8F73E3D470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BFCFF6-04A0-487E-8565-AA8F73E3D470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BFCFF6-04A0-487E-8565-AA8F73E3D470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BFCFF6-04A0-487E-8565-AA8F73E3D470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363F080E-8964-431C-A12E-341D1EA26FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F080E-8964-431C-A12E-341D1EA26FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F080E-8964-431C-A12E-341D1EA26FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F080E-8964-431C-A12E-341D1EA26FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24323C83-7F59-4477-9CD9-A6D8E2C1525A}
+	EndGlobalSection
+EndGlobal
